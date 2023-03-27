@@ -1,1 +1,5 @@
-# ESP32-Free_RTOS
+# ESP32-FreeRTOS
+FreeRTOS is a popular real-time operating system that is often used in embedded systems development. It is designed to provide a framework for creating efficient and reliable real-time applications on a variety of hardware platforms. 
+FreeRTOS is fully compatible with the ESP32 microcontroller, and it provides a range of features that can be used to develop complex real-time applications. These features include task management, synchronization mechanisms, inter-task communication, and memory management. FreeRTOS also provides support for a wide range of hardware peripherals, including timers, UARTs, I2C, and SPI.
+
+Developers who work with FreeRTOS on ESP32 can take advantage of the system's low power consumption and low cost, making it an ideal platform for battery-powered or cost-sensitive applications. Additionally, FreeRTOS on ESP32 offers the ability to implement multiple tasks with different priorities, allowing developers to easily create complex applications that respond to real-time events in a timely and efficient manner.
